@@ -1,5 +1,5 @@
 # 1.16.1-Custom-Faithful-Test-Build-
-a repo for my resource pack(s)
+a repo for my Custom Faithful pack, made out of a 32x faithful pack with some other stuff added in.
 
 i want to give credit to the guys that helped me make this:
 
