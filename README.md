@@ -1,4 +1,3 @@
-# 1.16.1-Custom-Faithful-Test-Build-
 a repo for my Custom Faithful pack, made out of a 32x faithful pack with some other stuff added in.
 
 yes i may have stolen some assets from other authors, most of them should be listed below:
